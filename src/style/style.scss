@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import './settings/settings';
+@import './component_style/home';
+@import './component_style/instructions';
+@import './component_style/quiz';
+@import './component_style//result.scss';
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: $bg;
+    font-family: $quicksand;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.toast-invalid {
+    background-color: $error;
+    border-radius: 5px;
+    color: $white;
+}
+.toast-valid {
+    background-color: $success;
+    border-radius: 5px;
+    color: $white;
+}
+.disable {
+    pointer-events: none;
+    opacity: 0.5;
+    box-shadow: none;
+}

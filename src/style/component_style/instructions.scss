@@ -1,0 +1,82 @@
+.instructions-container {
+    color: $secondary;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+    ul {
+        width: 60%;
+
+        .image {
+            width: 100%;
+            justify-content: center;
+            display: flex;
+        }
+    }
+    h2 {
+        font-weight: bold;
+    }
+    p {
+        font-size: $xs + 0.5;
+        margin: 0 1rem 2rem 1rem;
+    }
+
+    li {
+        margin: 1rem 1rem;
+        font-size: $xs + 0.3;
+        text-align: left;
+    }
+
+    li {
+        i {
+            font-size: inherit;
+            margin: 0 1rem;
+        }
+    }
+
+    li:before {
+        content: "\f0a4" ;
+        font-family: FontAwesome;
+        margin: 0 1rem 0 0;
+    }
+
+    li i {
+        color: $red;
+    }
+    .bottom-btn {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        margin: 2rem 0;
+    }
+    .left a, .right a {
+        // color: $pink;
+        font-size: $xs + 0.3;
+        // background-color: $pink;
+        color: $pink;
+        padding: 0.5rem 1rem;
+        // font-weight: bold;
+        border-radius: 5px;
+        border: 1px solid $pink;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .instructions-container {
+        ul {
+            width: 100%;
+
+            .image {
+                display: flex;
+                justify-content: center;
+                // width: 20%;
+                height: 13rem;
+            }
+        }
+        li {
+            font-size: 1rem;
+        }
+    }
+  }

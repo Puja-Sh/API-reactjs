@@ -1,0 +1,136 @@
+[
+    {
+        "question": "Which of the following is the first calculating device?",
+        "optionA": "Abacus",
+        "optionB": "Calculator",
+        "optionC": "Turing Machine",
+        "optionD": "Pascaline",
+        "answer": "Abacus"
+    },
+
+    {
+        "question": "Which of the following is not an input device?",
+        "optionA": "Keyboard",
+        "optionB": "Light Pen",
+        "optionC": "Mouse",
+        "optionD": "Printer",
+        "answer": "Printer"
+    },
+
+    {
+        "question": "Where are the contents of your computer's hard drive indexed",
+        "optionA": "Yahoo!",
+        "optionB": "Google",
+        "optionC": "MSN",
+        "optionD": "None of the above",
+        "answer": "None of the above"
+    },
+
+    {
+        "question": "Select the example of application software of computer",
+        "optionA": "Ms Word",
+        "optionB": "Ms Excel",
+        "optionC": "Both A and B",
+        "optionD": "MS-DOS",
+        "answer": "Both A and B"
+    },
+
+    {
+        "question": "Out of the following which can be both an input and an output device?",
+        "optionA": "Network cards",
+        "optionB": "Sound card",
+        "optionC": "Graphics card",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+
+    {
+        "question": "What is a MAC?",
+        "optionA": "A Computer made by Apple",
+        "optionB": "Memory Address Corruption",
+        "optionC": "Mediocre Apple Computer",
+        "optionD": "Media Access Control",
+        "answer": "Media Access Control"
+    },
+
+    {
+        "question": "Which of the following is not a programming language?",
+        "optionA": "Basic",
+        "optionB": "Java",
+        "optionC": "Html",
+        "optionD": "C++",
+        "answer": "Html"
+    },
+
+    {
+        "question": "Which is not an Internet protocol?",
+        "optionA": "HTTP",
+        "optionB": "FTP",
+        "optionC": "STP",
+        "optionD": "IP",
+        "answer": "STP"
+    },
+
+    {
+        "question": "'www' stands for ",
+        "optionA": "World Wide Wares",
+        "optionB": "World Wide Web",
+        "optionC": "Wide World Web",
+        "optionD": "World Wares Wide",
+        "answer": "World Wide Web"
+    },
+
+    {
+        "question": "What is binary code made out of?",
+        "optionA": "Zeros and ones",
+        "optionB": "Ones and twos",
+        "optionC": "Noughts and crosses",
+        "optionD": "Dots and dashes",
+        "answer": "Zeros and ones"
+    },
+
+    {
+        "question": "Which is the part of the computer system that one can physically touch?",
+        "optionA": "Data",
+        "optionB": "Operating systems",
+        "optionC": "Hardware",
+        "optionD": "Software",
+        "answer": "Hardware"
+    },
+
+    {
+        "question": "Which of the following is an example of non-volatile memory?",
+        "optionA": "Cache memory",
+        "optionB": "RAM",
+        "optionC": "ROM",
+        "optionD": "None of the above",
+        "answer": "ROM"
+    },
+
+    {
+        "question": "File extensions are used in order to _____",
+        "optionA": "Name the file",
+        "optionB": "Ensure the filename is not lost",
+        "optionC": "Identify the file",
+        "optionD": "Identify the file type",
+        "answer": "Identify the file type"
+    },
+
+    {
+        "question": "Which one of the following is not a linear data structure?",
+        "optionA": "Array",
+        "optionB": "Binary Tree",
+        "optionC": "Queue",
+        "optionD": "Stack",
+        "answer": "Binary Tree"
+    },
+
+    {
+        "question": "World Wide web was proposed by",
+        "optionA": "Bill Gates",
+        "optionB": "Tim Berners Lee",
+        "optionC": "Bill Rogers",
+        "optionD": "None of Above",
+        "answer": "Tim Berners Lee"
+    }
+]
