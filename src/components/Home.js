@@ -24,8 +24,8 @@ const Home = () => (
         </Link>
         </div>
         <div className="social-container">
-            <a href="https://www.instagram.com/aalsi_pupu/?igshid=mrmhi32hodvf" className="instagram-btn"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/in/pujash/" className="linkedin-btn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://www.instagram.com/justme.ps" target="_blank" className="instagram-btn"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/pujash/" target="_blank" className="linkedin-btn"><i class="fab fa-linkedin-in"></i></a>
         </div>
       <div className="footer">
         <p>Created by Puja Sharma</p>
